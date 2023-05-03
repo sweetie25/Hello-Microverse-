@@ -2,10 +2,9 @@
 
 <div align="center">
  
-  <h3><b>Hello-Microverse-Project</b></h3>
+  <h3><b>Hello Microverse Project</b></h3>
 
 </div>
-
 
 # 📗 Table of Contents
 
@@ -40,31 +39,12 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
+  <summary>Client</summary>
   <ul>
     <li><a href="https://html.com/">HTML</a></li>
-  </ul>
-</details>
-
-<details> 
-  <ul>
     <li><a href="https://css.com/">CSS</a></li>
-  </ul>
-</details>
-
-<details> 
-  <ul>
     <li><a href="https://vscode.com/">VScode</a></li>
-  </ul>
-</details>
-
-<details>
-   <ul>
     <li><a href="https://github.com/">GitHub</a></li>
-  </ul>
-</details>
-
-<details> 
-  <ul>
     <li><a href="https://linters.com/">Linters</a></li>
   </ul>
 </details>
@@ -80,11 +60,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-
-- [No deployed live demo yet]
+- [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -126,10 +104,9 @@ You can deploy this project using: via pull request
 
 👤 **Zufan**
 
-- GitHub: [@gitsweetie25]((https://github.com/sweetie25)
+- GitHub: [@github]((https://github.com/sweetie25)
 - Twitter: [@twitter](https://twitter.com/Z2T280367986)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/zufan-elias-744480230/)
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -137,9 +114,9 @@ You can deploy this project using: via pull request
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[mobile-version-template]**
-- [ ] **[Desktop-version-template]**
-- [ ] **[quiz-template]**
+- **[mobile-version-template]**
+- **[Desktop-version-template]**
+- **[quiz-template]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,7 +130,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project ypu can follow me on @https://github.com/sweetie25/
+If you like this project ypu can follow me on @https://github.com/sweetie25
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,7 +157,5 @@ I would like to thank my team partners for there great help.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
